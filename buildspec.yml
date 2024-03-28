@@ -14,4 +14,4 @@ phases:
   
   build:
     commands:
-      - ./test.sh
+      - terraform plan
